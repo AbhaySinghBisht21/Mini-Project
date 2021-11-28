@@ -1,0 +1,14 @@
+
+{
+    "add": "add code",
+    "subtract": "subtract code",
+    "multiply": "multiply code",   
+    "swap": "swapping code",
+    "factorial": "factorial code", 
+    "sort": {                              
+        "insertion": "insertion code",
+        "selection": "selection code",
+        "bubble": "bubble code", 
+        "quick": "quick code"
+    }
+}
